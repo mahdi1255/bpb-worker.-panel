@@ -5,8 +5,8 @@ import aiohttp
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, filters, CallbackQueryHandler
 
-TOKEN = "توکن_ربات_تو_اینجا_بذار"
-GROUP_CHAT_ID = -1001234567890  # آیدی عددی گروه رو اینجا بذار
+TOKEN = "7657557792:AAFCWv2huaJusaCc_RFxihXmc2_gHhl8C6c"
+GROUP_CHAT_ID =  -1002629017982 # آیدی عددی گروه رو اینجا بذار
 
 user_states = {}
 
